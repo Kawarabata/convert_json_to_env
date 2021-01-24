@@ -22,7 +22,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`$ gem install specific_install`
+
+gemパッケージをグローバルな場所にインストール
+`$ gem specific_install -l https://github.com/Kawarabata/convert_json_to_env`
+
+`$ convert_json_to_env convert .env`
 
 ## Development
 

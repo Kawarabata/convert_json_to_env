@@ -1,0 +1,24 @@
+PATH
+  remote: .
+  specs:
+    convert_json_to_env (0.1.0)
+      thor
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    minitest (5.14.3)
+    rake (10.5.0)
+    thor (1.1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bundler (~> 1.17)
+  convert_json_to_env!
+  minitest (~> 5.0)
+  rake (~> 10.0)
+
+BUNDLED WITH
+   1.17.2
