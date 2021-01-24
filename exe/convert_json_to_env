@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+require "convert_json_to_env"
